@@ -72,8 +72,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000009536743, y: 258.99982}
-  m_SizeDelta: {x: 144, y: 213}
+  m_AnchoredPosition: {x: 6.8403, y: 265.66302}
+  m_SizeDelta: {x: 157.6805, y: 219.6633}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &114371686897001792
 MonoBehaviour:
@@ -120,7 +120,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &224339255891972564
 RectTransform:
   m_ObjectHideFlags: 0
@@ -135,10 +135,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 224394519327449312}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 72, y: -88}
+  m_SizeDelta: {x: 134, y: 144}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &222314333513243142
 CanvasRenderer:
@@ -231,7 +231,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &224749698757354494
 RectTransform:
   m_ObjectHideFlags: 0
@@ -246,10 +246,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 224394519327449312}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 72, y: -189.625}
+  m_SizeDelta: {x: 134, y: 46.75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &222075120469725444
 CanvasRenderer:
@@ -382,11 +382,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 12
-    m_MaxSize: 20
+    m_MinSize: 2
+    m_MaxSize: 25
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 0
